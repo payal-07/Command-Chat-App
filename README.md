@@ -4,7 +4,7 @@
 
 1. Clone the repository:
 
-   a. git clone https://github.com/roshandec29/command_chat_app.git
+   a. git clone https://github.com/payal-07/Command-Chat-App.git
    
    b. cd command_chat_app
 
